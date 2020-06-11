@@ -1,3 +1,3 @@
 # Map-my-world
 
-Grid SLAM Implementation using ROS gmapping package
+The goal of the project was to use the gmapping ROS package to implement SLAM. The environment and robot used were designed in the previous projects.
