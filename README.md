@@ -8,7 +8,7 @@ cd catkin_ws
 source devel/setup.bash
 roslaunch my_robot mapping.launch
 ```
-This code should open a gazebo world with a robot deployed. Moreover, it should open an RVIZ window showing real-time parameter values.
+This code should open a gazebo world with a robot deployed. Moreover, it should open an RVIZ window showing real-time parameter values. TO get an accurate map of the environment, try to follow the same path more than twice.
 After generating the map, the resultant maps and features can be explored and analyzed in detail using the RTAB mapping. Use the following lines of code to open a new RTAB window:
 
 ```
